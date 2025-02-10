@@ -17,7 +17,7 @@ Multiple controllers were designed and evaluated based on their performance. The
 - **project-control-022.pdf** → Problem statement  
 
 ### **Prerequisites**
-- MATLAB (R202X or later)  
+- MATLAB
 - Simulink  
 
 ### **How to Run**
